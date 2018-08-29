@@ -146,3 +146,6 @@ Check out the demo!
 
 *Happy learning!*
 
+### CMD to start the cards on my computer
+`docker run -d -p 8000:8000 --name cs-flash-cards -v /Users/syakimov/src/computer-science-flash-cards:/src/db cs-flash-cards`
+
